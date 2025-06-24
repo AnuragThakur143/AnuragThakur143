@@ -43,11 +43,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
   <picture>
     <source srcset="https://img.icons8.com/color/48/tailwindcss.png" media="(prefers-color-scheme: dark)">
-    <img src="https://img.icons8.com/color/48/tailwindcss.png" width="40" height="40" alt="Tailwind CSS"/>
+    <img src="https://img.icons8.com/color/48/tailwindcss.png" width="50" height="50" alt="Tailwind CSS"/>
   </picture>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+  <picture>
+    <source srcset="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" media="(prefers-color-scheme: dark)">
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="50" height="50" alt="GitHub"/>
+  </picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="50" height="50"/>
+  <picture>
+    <source srcset="https://img.icons8.com/ios-filled/50/ffffff/unreal-engine.png" media="(prefers-color-scheme: dark)">
+    <img src="https://img.icons8.com/ios-filled/50/000000/unreal-engine.png" width="50" height="50" alt="Unreal Engine"/>
+  </picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50" height="50"/>
 </p>
